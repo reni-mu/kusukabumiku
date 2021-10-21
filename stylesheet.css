@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 165px;
-  background-image: url("./img/gambar_bg.jpg");
+  background-image: url("gambar_bg.jpg");
   background-size: cover;
   color: white;
   text-align: center;
